@@ -1,0 +1,4 @@
+config BR2_PACKAGE_BBB_SENSOR
+    bool "bbb_sensor"
+    help
+      BBB sensor system package: kernel modules, app and startup script.
